@@ -2,9 +2,9 @@ How to use?
 ===========
 
 
-You can import ``XXX`` from ``js.jquery_datalink`` and ``need`` it where you want
+You can import ``jquery_datalink`` from ``js.jquery_datalink`` and ``need`` it where you want
 these resources to be included on a page::
 
-  >>> from js.jquery_datalink import XXX # XXX fix this test
-  >>> XXX.need()
+  >>> from js.jquery_datalink import jquery_datalink 
+  >>> jquery_datalink.need()
 
